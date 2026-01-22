@@ -1,4 +1,4 @@
-# GOLD-PRICE-PREDICTOR
+# GOLD-PRICE-PREDICTOR(ML TECHNOLOGY)
 🔍 Overview
 
 An end-to-end machine learning project that predicts future gold prices using historical time-series data. The system processes 730+ daily records, performs feature engineering with 10+ technical indicators, trains multiple ML models, and selects the best one based on evaluation metrics.
